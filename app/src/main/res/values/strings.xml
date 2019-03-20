@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Learn Your Colors!</string>
+    <string name="reset_button_label">Shuffle</string>
+    <string name="hint">Enter Color</string>
+    <string name="success_msg">Correct!</string>
+    <string name="fail_msg">Try Again!</string>
+
+    <!-- CSV array - first element is background color, second is text color -->
+    <string-array name="color_data">
+        <item>red,white</item>
+        <item>orange,white</item>
+        <item>yellow,black</item>
+        <item>green,white</item>
+        <item>blue,white</item>
+        <item>purple,white</item>
+        <item>white,black</item>
+        <item>black,white</item>
+        <item>pink,black</item>
+    </string-array>
+</resources>
